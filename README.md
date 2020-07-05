@@ -1,6 +1,6 @@
 # esp-me_re
 Reverse Engineering the remote control protocol on an ESP-ME
-The intent of this project is to build a reasonably intelligent remote control to replace the LNK wifi module rainbird provides.
+The intent of this project is to build a reasonably intelligent remote control to replace the LNK wifi module rainbird provides.  If the remote protocol is more complex than is reasonable to reverse, the faceplate connection will be the next area of research as its output is likely far more simple (most likely just an encoded set of commands to turn on solenoids).  
 
 BOM:
 Board P/N: Assy 638321-01
