@@ -10,7 +10,7 @@ PCF2123, 622.103, 14521
 
 HI541, 51K, A9SK
 
-MC9SO9LL64CLK, 1N70B, QAR1448K
+MC9S08LL64CLK, 1N70B, QAR1448K
 
 Remote control - J6 on board back, five pin, no ground connection, 1.5vdc on right-most pin (viwing from back of board) with power applied to the board through 9vdc backup battery.  
 
