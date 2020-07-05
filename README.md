@@ -12,6 +12,7 @@ HI541, 51K, A9SK
 
 MC9S08LL64CLK, 1N70B, QAR1448K -- this is the main MCU, probably runs the display over SPI.  
  - https://www.nxp.com/docs/en/data-sheet/MC9S08LL64.pdf
+ 
 Remote control - J6 on board back, five pin, no ground connection, 1.5vdc on right-most pin (viwing from back of board) with power applied to the board through 9vdc backup battery.  
 
 Old style remote control: RM-1R Remote -- unavailable except from ebay, no reference on rainbird site.
