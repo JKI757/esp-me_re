@@ -14,6 +14,7 @@ MC9S08LL64CLK, 1N70B, QAR1448K -- this is the main MCU, has LCD controller, Seri
  - https://www.nxp.com/docs/en/data-sheet/MC9S08LL64.pdf
  - Serial is connected to ISP/Debug J3 (6-pin connector without header installed).
  - SPI traces appear to go under the LCD, along with the LCD specific traces from the right side of the MCU.  
+ - https://www.nxp.com/docs/en/reference-manual/MC9S08LL64RM.pdf
  
 Remote control - J6 on board back, five pin, no ground connection, 1.5vdc on right-most pin (viwing from back of board) with power applied to the board through 9vdc backup battery.  
 
