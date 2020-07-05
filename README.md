@@ -21,3 +21,9 @@ Remote control - J6 on board back, five pin, no ground connection, 1.5vdc on rig
 Old style remote control: RM-1R Remote -- unavailable except from ebay, no reference on rainbird site.
 Current style remote: LNK Wifi Module.  Is NOT compatible with this ESP-ME faceplate.  
 
+LNK module:
+ - the main chip in this is P/N 450-0163 R3, FCC Id: 0218234 01203 LSR.  Almost certainly this is the wifi chip, but the FCC Database is down so I can't verify this right now. 
+ - A secondary MCU (U2) is 441 HD 1BT2
+ - Also contains a crystal, 11.059, ABM3C 17F
+ - 3630 7182 e3
+ - 5 pin connector is marked "ACIN", "MOSI", "GND", "MISO","ACIN"
