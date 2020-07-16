@@ -27,3 +27,5 @@ LNK module:
  - Also contains a crystal, 11.059, ABM3C 17F
  - 3630 7182 e3
  - 5 pin connector is marked "ACIN", "MOSI", "GND", "MISO","ACIN"
+ - The likely conclusion is that this is a SPI connection based on the signal names -- but the question is where is the CLK signal??  
+ 
