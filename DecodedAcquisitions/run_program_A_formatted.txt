@@ -1,0 +1,205 @@
+h95	h95	h95	h95	h95
+h56	h56	h56	h56	h56
+h99	h99	h99	h99	h99
+h6A	h6A	h6A	h6A	h6A
+hA9	hA9	hA9	hA9	hA9
+h55	h55	h55	h55	h55
+h6A	h6A	hD3	h6A	h6A
+h55	h65	h55	h65	h55
+h55	h55	hAD	h55	h55
+h35	hD5	h95	hD5	h35
+hD5	h55	hAD	h55	hD5
+h6A	h6A	h06	h6A	h6A
+h19	h19		h19	h19
+				
+h95	h95	h95	h95	h95
+h56	h56	h56	h56	h56
+h99	h99	h99	h99	h99
+h6A	h6A	h6A	h6A	h6A
+hA9	hA9	hA9	hA9	hA9
+h55	h55	h55	h55	h55
+h6A	h6A	h6A	h6A	hD3
+h55	h65	hA9	h65	h55
+h55	h55	h55	h55	hAD
+h33	h33	h55	h33	h95
+h35	h55	h65	h55	hAD
+hB5	hB5	hB5	hB5	h06
+h19	h19	h19	h19	
+				
+h95	h95	h95	h95	h95
+h56	h56	h56	h56	h56
+h99	h99	h99	h99	h99
+h6A	h6A	h6A	h6A	h6A
+hA9	hA9	hA9	hA9	hA9
+h55	h55	h55	h55	h55
+h53	h6A	h6A	h6A	h6A
+h9A	h65	h55	h65	h59
+h35	h55	h55	h55	h55
+h4B	h9A	h35	h9A	hD5
+h2B	hD5	hD5	hD5	h95
+	h6A	h6A	h6A	h6A
+	h19	h19	h19	h19
+				
+	h95	h95	h95	
+	h56	h56	h56	
+	h99	h99	h99	
+	h6A	h6A	h6A	
+	hA9	hA9	hA9	
+	h55	h55	h55	
+	hD3	h6A	hD3	
+	h59	h55	h59	
+	h2D	h55	h2D	
+	hA5	h33	hA5	
+	h2B	h35	h2B	
+		hB5		
+		h19		
+				
+		h95		
+		h56		
+		h99		
+		h6A		
+		hA9		
+		h55		
+		h53		
+		h9A		
+		h35		
+		h4B		
+		h2B		
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+BREAK				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+BREAK				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+BREAK				
